@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sojgja/sojgja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm 🐺 sojgja!  , <br/>
+# 👋 Hi, I'm sojgja!  , <br/>
 
-## Software Architect • System Design • Backend Engineering
-
----
+> Software Architect • System Design • Backend Engineering
 
 ### 👋 About
 
