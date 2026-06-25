@@ -14,3 +14,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm 🐺 sojgja!  , <br/>
+
+## Software Architect • System Design • Backend Engineering
+
+---
+
+### 👋 About
+
+I design scalable backend systems, trading infrastructures, and Python-based enterprise architectures.
+
+---
+
+### 🚀 What I'm working on
+
+* SQL → Pandas Transformation Engine
+* Quantitative Trading Framework (MT5)
+* Python Enterprise SDK (Design Patterns based)
+* Backend System Architecture
+
+---
+
+### 🧠 Focus Areas
+
+* System Design
+* Software Architecture
+* Distributed Systems
+* Backend Engineering
+* Quantitative Trading Systems
+
+---
+
+### ⚙️ Tech Stack
+
+Python • Django • PostgreSQL • Docker • Linux
+
+---
+
+### 🧩 Engineering Philosophy
+
+> Simplicity is the highest form of sophistication in system design.
+
+---
+
+### 📫 Contact
+
+GitHub: https://github.com/sojgja
