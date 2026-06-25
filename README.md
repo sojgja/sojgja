@@ -1,58 +1,87 @@
 # 🐺 sojgja
 
-> Solution Architect • Software Architect • System Design
+> Solution Architect • System Design • Cloud & Backend Architecture
 
 ---
 
 ## 👋 About Me
 
-I am a Solution Architect focused on designing and building enterprise-grade systems across backend platforms, trading infrastructures, and data-intensive applications.
+I am a Solution Architect focused on designing scalable, distributed, and cloud-native systems.
 
-My work sits at the intersection of **system design, backend engineering, and quantitative trading systems**, with a strong emphasis on scalability, maintainability, and real-world production constraints.
+My work spans across backend engineering, system design, and quantitative trading infrastructure, with strong emphasis on production-grade architecture and scalability.
 
-I also have experience in **SAP enterprise environments**, which strengthens my understanding of large-scale business systems and enterprise architecture.
+I hold **AWS Certified Solutions Architect Professional (SAP)** certification, reflecting my expertise in designing complex cloud systems on AWS.
 
 ---
 
 ## 🚀 What I Build
 
-I design and develop end-to-end systems such as:
+I design and engineer real-world systems such as:
 
-- Trading infrastructure for algorithmic strategies (MT5-based systems)
-- SQL → Pandas transformation engines for data processing automation
+- Cloud-native trading infrastructure for algorithmic strategies (MT5 systems)
+- Data transformation engines (SQL → Pandas pipeline systems)
 - Reusable Python enterprise SDKs based on design patterns
-- Backend architectures for scalable applications
-- Data processing pipelines for financial and business systems
+- Scalable backend architectures on distributed systems
+- Automation systems for data-intensive workloads
 
 ---
 
 ## 🧠 Core Expertise
 
 - Solution Architecture & System Design
-- Backend Engineering (Python Ecosystem)
-- Distributed System Thinking
+- AWS Cloud Architecture (SAP level)
+- Distributed Systems Design
+- Backend Engineering (Python ecosystem)
 - Quantitative Trading Systems
-- Enterprise Software Design (SAP environment experience)
 - Design Patterns & Clean Architecture
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technology Stack
 
-Python • Django • PostgreSQL • Docker • Linux • SQL • SAP (Enterprise Systems)
+### Backend & Core
+Python • Django • FastAPI • REST APIs
+
+### Cloud & Infrastructure (AWS SAP)
+AWS (EC2, S3, Lambda, RDS, VPC, IAM, CloudWatch)
+Docker • Linux • Nginx
+
+### Data Layer
+PostgreSQL • MySQL • SQL • Redis
+
+### Architecture & Design
+System Design • Distributed Systems
+Microservices • Event-Driven Architecture
+Clean Architecture • DDD
+Design Patterns (Factory, Strategy, Observer)
+
+### Trading & Automation
+MetaTrader 5 (MQL5)
+Quantitative Trading Systems
+Market Data Pipelines
+
+---
+
+## ☁️ Cloud Focus
+
+- AWS Well-Architected Framework
+- High Availability Systems
+- Scalable Microservices Architecture
+- Event-Driven Systems
+- Cost-Optimized Cloud Design
 
 ---
 
 ## 🧩 Engineering Philosophy
 
-> A system is only as good as its ability to evolve under complexity.
+> A well-designed system is not the one that works today, but the one that survives tomorrow’s complexity.
 
 I focus on:
 
-- Designing systems that scale without rewriting
-- Separating business logic from infrastructure
-- Building reusable and testable architecture layers
-- Reducing hidden complexity in production systems
+- Designing systems that scale under real production load
+- Separating business logic from infrastructure concerns
+- Building reusable, testable, and maintainable architectures
+- Making trade-offs explicit in system design
 
 ---
 
