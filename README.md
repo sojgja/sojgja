@@ -82,6 +82,15 @@ Beyond architecture, I bring deep domain expertise in **Supply Chain Management*
 
 ---
 
+### 🎓 Education
+
+| Period | Degree | University |
+|--------|--------|------------|
+| 2012–2014 | **Master of Business Administration (MBA)** | Thuong Mai University |
+| 2004–2008 | **Bachelor of Software Engineering** | Industrial University of Ho Chi Minh City |
+
+---
+
 ### 🚀 What I Build
 
 |  | Area | Systems |
@@ -99,9 +108,9 @@ Beyond architecture, I bring deep domain expertise in **Supply Chain Management*
 
 |  | Area | Skills |
 |:-:|------|--------|
-| 🏛️ | **Architecture** | <img src="https://img.shields.io/badge/Solution_Architecture-1976D2?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/System_Design-0D47A1?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Distributed_Systems-6C2D82?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-00B4D8?style=flat-square&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Event_Driven-8E44AD?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Monolith→Microservices-E67E22?style=flat-square&logo=serverless&logoColor=white"/> |
+| 🏛️ | **Architecture** | <img src="https://img.shields.io/badge/Solution_Architecture-1976D2?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/System_Design-0D47A1?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Distributed_Systems-6C2D82?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-00B4D8?style=flat-square&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Event_Driven-8E44AD?style=flat-square&logo=apachekafka&logoColor=white"/> |
 | ☁️ | **Cloud & Infra** | <img src="https://img.shields.io/badge/AWS_SAP-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-4285F4?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Well_Architected-FF6C37?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Scalable_Design-3498DB?style=flat-square&logo=serverless&logoColor=white"/> |
-| 💻 | **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/Database_Design-336791?style=flat-square&logo=postgresql&logoColor=white"/> |
+| 💻 | **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/Database_Design-336791?style=flat-square&logo=postgresql&logoColor=white"/> |
 | 👥 | **Leadership** | <img src="https://img.shields.io/badge/Team_Leadership-2C3E50?style=flat-square&logo=teamspeak&logoColor=white"/> <img src="https://img.shields.io/badge/Code_Review-8E44AD?style=flat-square&logo=reviewboard&logoColor=white"/> <img src="https://img.shields.io/badge/Mentoring-27AE60?style=flat-square&logo=openbadges&logoColor=white"/> <img src="https://img.shields.io/badge/Agile/Scrum-00A98F?style=flat-square&logo=jirasoftware&logoColor=white"/> |
 | 🏭 | **SCM** | <img src="https://img.shields.io/badge/Supply_Chain_Management-2E86C1?style=flat-square&logo=dhl&logoColor=white"/> <img src="https://img.shields.io/badge/Logistics_Systems-1A5276?style=flat-square&logo=databricks&logoColor=white"/> |
 | 💹 | **Trading** | <img src="https://img.shields.io/badge/Algo_Trading-27AE60?style=flat-square&logo=quantconnect&logoColor=white"/> <img src="https://img.shields.io/badge/Quantitative_Finance-1565C0?style=flat-square&logo=bloomberg&logoColor=white"/> <img src="https://img.shields.io/badge/MT5_MQL5-003F87?style=flat-square&logo=metrodeturin&logoColor=white"/> <img src="https://img.shields.io/badge/ERP_Odoo-875F9D?style=flat-square&logo=odoo&logoColor=white"/> |
@@ -112,11 +121,11 @@ Beyond architecture, I bring deep domain expertise in **Supply Chain Management*
 
 | Category | Technologies |
 |----------|-------------|
-| **Backend & Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/> |
+| **Backend & Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Python_Expert-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/> |
 | **Cloud & Infrastructure** | <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> |
 | **Data Layer** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> |
 | **Architecture & Design** | <img src="https://img.shields.io/badge/System_Design-1976D2?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Distributed_Systems-6C2D82?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-00B4D8?style=flat-square&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Clean_Architecture-2ECC71?style=flat-square&logo=typescript&logoColor=white"/> |
-| **Trading & Automation** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MQL5-003F87?style=flat-square&logo=metrodeturin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Data_Pipelines-E74C3C?style=flat-square&logo=apacheairflow&logoColor=white"/> |
+| **Trading & Automation** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MQL5-003F87?style=flat-square&logo=metrodeturin&logoColor=white"/> <img src="https://img.shields.io/badge/MQL4-00599C?style=flat-square&logo=metrodeturin&logoColor=white"/> <img src="https://img.shields.io/badge/Data_Pipelines-E74C3C?style=flat-square&logo=apacheairflow&logoColor=white"/> |
 
 ---
 
@@ -148,6 +157,14 @@ Beyond architecture, I bring deep domain expertise in **Supply Chain Management*
 </td>
 </tr>
 </table>
+
+<br/>
+
+<p align="center">
+  <a href="tel:+84906961286"><img src="https://img.shields.io/badge/📞_Call-1976D2?style=for-the-badge&logo=phone&logoColor=white"/></a>
+  <a href="mailto:sojgja@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/+84906961286"><img src="https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
 <br/>
 
