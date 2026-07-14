@@ -16,17 +16,31 @@
 
 ### 👋 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 I am a **Solution Architect** focused on designing scalable, distributed, and cloud-native systems.
 
 My work spans across backend engineering, system design, and quantitative trading infrastructure, with strong emphasis on production-grade architecture and scalability.
 
 I hold **AWS Certified Solutions Architect Professional (SAP)** certification, reflecting my expertise in designing complex cloud systems on AWS.
 
-<p align="center">
+<br/>
+
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Professional-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-527FFF?style=flat-square&logo=awslambda&logoColor=white"/>
+
+</td>
+<td width="35%" align="center" valign="top">
+
   <a href="https://www.credly.com/badges/18913a53-c2ef-4603-afc6-eab99d2b02b2/public_url" target="_blank">
-    <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/twitter_thumb_201604_image.png" width="120" height="120" alt="AWS Certified Solutions Architect Professional"/>
+    <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/twitter_thumb_201604_image.png" width="170" height="170" alt="AWS Certified Solutions Architect Professional"/>
   </a>
-</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
