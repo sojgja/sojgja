@@ -93,14 +93,26 @@ I hold **AWS Certified Solutions Architect Professional (SAP)** certification, r
 
 ### 🧩 Engineering Philosophy
 
-> *"A well-designed system is not the one that works today, but the one that survives tomorrow's complexity."*
+<table>
+<tr>
+<td align="center" width="100%">
+<br/>
+  <img src="https://img.shields.io/badge/Engineering_Philosophy-1976D2?style=for-the-badge&logo=lightbulb&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/"Well_designed%20system%20is%20not%20the%20one%20that%20works%20today,%20but%20the%20one%20that%20survives%20tomorrow's%20complexity."-0D47A1?style=flat-square&logo=quotations&logoColor=white"/>
+  <br/><br/>
+</td>
+</tr>
+</table>
 
-I focus on:
+<br/>
 
-- Designing systems that scale under real production load
-- Separating business logic from infrastructure concerns
-- Building reusable, testable, and maintainable architectures
-- Making trade-offs explicit in system design
+|  | Focus Area | Description |
+|:-:|------------|-------------|
+| 📈 | **Scalability** | Designing systems that scale under real production load |
+| 🔌 | **Separation** | Separating business logic from infrastructure concerns |
+| ♻️ | **Reusability** | Building reusable, testable, and maintainable architectures |
+| ⚖️ | **Trade-offs** | Making trade-offs explicit in system design |
 
 ---
 
