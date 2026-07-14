@@ -22,11 +22,9 @@
 <tr>
 <td width="65%" valign="top">
 
-With over **15 years in software engineering**, I've progressed from writing production code at **FPT Software** to architecting enterprise systems at **NTQ Solution**, and now designing cutting-edge **algorithmic trading platforms**. My focus has shifted from coding to system architecture, solution design, and technical leadership.
+**Solution Architect** | **Software Design** | **System Design** | **AWS Certified SAP**
 
-I specialize in **software architecture** — designing scalable, resilient systems that handle millions of requests. I define technical roadmaps, evaluate trade-offs between monolith vs microservices, choose the right infrastructure (AWS, Docker, CI/CD), and ensure systems are built for performance, reliability, and maintainability.
-
-Beyond architecture, I bring deep domain expertise in **algorithmic trading** and **quantitative finance**. Combined with entrepreneurial experience from founding my own company, I solve problems at the intersection of business, technology, and strategy.
+I design scalable, resilient systems and define technical roadmaps — from backend architecture to cloud infrastructure at scale.
 
 <br/>
 
@@ -63,6 +61,24 @@ Beyond architecture, I bring deep domain expertise in **algorithmic trading** an
   <img src="https://img.shields.io/badge/Engineer→Leader-27AE60?style=for-the-badge&logo=growth&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dev→Architect-8E44AD?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
 </p>
+
+---
+
+### 📖 Detailed Background
+
+<table>
+<tr>
+<td valign="top">
+
+With over **15 years in software engineering**, I've progressed from writing production code at **FPT Software** to architecting enterprise systems at **NTQ Solution**, and now designing cutting-edge **algorithmic trading platforms**. My focus has shifted from coding to system architecture, solution design, and technical leadership.
+
+I specialize in **software architecture** — designing scalable, resilient systems that handle millions of requests. I define technical roadmaps, evaluate trade-offs between monolith vs microservices, choose the right infrastructure (AWS, Docker, CI/CD), and ensure systems are built for performance, reliability, and maintainability.
+
+Beyond architecture, I bring deep domain expertise in **algorithmic trading** and **quantitative finance**. Combined with entrepreneurial experience from founding my own company, I solve problems at the intersection of business, technology, and strategy.
+
+</td>
+</tr>
+</table>
 
 ---
 
