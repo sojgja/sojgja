@@ -118,19 +118,6 @@ I focus on:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sojgja&theme=react-dark&bg_color=0d1117&color=1976d2&line=1976d2&point=ffffff&area=true&hide_border=true"/>
 </p>
 
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/sojgja"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cuong-nd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://sojgja.github.io"><img src="https://img.shields.io/badge/Website-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:sojgja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/soj.gja"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://t.me/+84906961286"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
-
 <br/>
 
 ---
