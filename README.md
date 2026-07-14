@@ -46,25 +46,24 @@ I hold **AWS Certified Solutions Architect Professional (SAP)** certification, r
 
 ### 🚀 What I Build
 
-I design and engineer real-world systems such as:
-
-| Area | Systems |
-|------|---------|
-| 💹 **Trading** | Cloud-native trading infrastructure for algorithmic strategies (MT5 systems) |
-| 🔄 **Data** | Data transformation engines (SQL → Pandas pipeline systems) |
-| 📦 **SDK** | Reusable Python enterprise SDKs based on Design Patterns |
-| 🏗️ **Architecture** | Scalable backend architectures on distributed systems |
-| ⚡ **Automation** | Automation systems for data-intensive workloads |
+|  | Area | Systems |
+|:-:|------|---------|
+| 💹 | **Trading** | Cloud-native trading infrastructure for algorithmic strategies (MT5 systems) |
+| 🔄 | **Data** | Data transformation engines (SQL → Pandas pipeline systems) |
+| 📦 | **SDK** | Reusable Python enterprise SDKs based on Design Patterns |
+| 🏗️ | **Architecture** | Scalable backend architectures on distributed systems |
+| ⚡ | **Automation** | Automation systems for data-intensive workloads |
 
 ---
 
 ### 🧠 Core Expertise
 
-```
-Solution Architecture  •  System Design  •  AWS Cloud (SAP)
-Distributed Systems    •  Backend Engineering (Python)
-Quantitative Trading   •  Clean Architecture
-```
+|  | Area | Skills |
+|:-:|------|--------|
+| 🏛️ | **Architecture** | `Solution Architecture` `System Design` `Distributed Systems` `Microservices` `Event-Driven` `Clean Architecture` `DDD` |
+| ☁️ | **Cloud** | `AWS Cloud (SAP)` `Well-Architected Framework` `High Availability` `Scalable Design` `Cost Optimization` |
+| 💻 | **Backend** | `Python` `Django` `FastAPI` `REST APIs` `Backend Engineering` |
+| 💹 | **Trading** | `Quantitative Systems` `MT5 (MQL5)` `Market Data Pipelines` |
 
 ---
 
@@ -72,11 +71,11 @@ Quantitative Trading   •  Clean Architecture
 
 | Category | Technologies |
 |----------|-------------|
-| **Backend & Core** | `Python` `Django` `FastAPI` `REST APIs` |
-| **Cloud & Infrastructure** | `AWS (EC2, S3, Lambda, RDS, VPC, IAM, CloudWatch)` `Docker` `Linux` `Nginx` |
-| **Data Layer** | `PostgreSQL` `MySQL` `SQL` `Redis` |
-| **Architecture & Design** | `System Design` `Distributed Systems` `Microservices` `Event-Driven` `Clean Architecture` `DDD` `Design Patterns` |
-| **Trading & Automation** | `MetaTrader 5 (MQL5)` `Quantitative Trading` `Market Data Pipelines` |
+| **Backend & Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/> |
+| **Cloud & Infrastructure** | <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> |
+| **Data Layer** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white"/> |
+| **Architecture & Design** | <img src="https://img.shields.io/badge/System_Design-1976D2?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Distributed_Systems-6C2D82?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-00B4D8?style=flat-square&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Clean_Architecture-2ECC71?style=flat-square&logo=typescript&logoColor=white"/> |
+| **Trading & Automation** | <img src="https://img.shields.io/badge/MT5-003F87?style=flat-square&logo=metrodeturin&logoColor=white"/> <img src="https://img.shields.io/badge/Quantitative_Trading-27AE60?style=flat-square&logo=quantconnect&logoColor=white"/> <img src="https://img.shields.io/badge/Data_Pipelines-E74C3C?style=flat-square&logo=apacheairflow&logoColor=white"/> |
 
 ---
 
