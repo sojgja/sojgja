@@ -60,10 +60,10 @@ I hold **AWS Certified Solutions Architect Professional (SAP)** certification, r
 
 |  | Area | Skills |
 |:-:|------|--------|
-| 🏛️ | **Architecture** | `Solution Architecture` `System Design` `Distributed Systems` `Microservices` `Event-Driven` `Clean Architecture` `DDD` |
-| ☁️ | **Cloud** | `AWS Cloud (SAP)` `Well-Architected Framework` `High Availability` `Scalable Design` `Cost Optimization` |
-| 💻 | **Backend** | `Python` `Django` `FastAPI` `REST APIs` `Backend Engineering` |
-| 💹 | **Trading** | `Quantitative Systems` `MT5 (MQL5)` `Market Data Pipelines` |
+| 🏛️ | **Architecture** | <img src="https://img.shields.io/badge/Solution_Architecture-1976D2?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/System_Design-1565C0?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Distributed_Systems-6C2D82?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-00B4D8?style=flat-square&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Event_Driven-8E44AD?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Clean_Architecture-2ECC71?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/DDD-27AE60?style=flat-square&logo=diagramsdotnet&logoColor=white"/> |
+| ☁️ | **Cloud** | <img src="https://img.shields.io/badge/AWS_SAP-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Well_Architected-FF6C37?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/High_Availability-27AE60?style=flat-square&logo=checkmarx&logoColor=white"/> <img src="https://img.shields.io/badge/Scalable_Design-3498DB?style=flat-square&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Cost_Optimization-E74C3C?style=flat-square&logo=amazonaws&logoColor=white"/> |
+| 💻 | **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Backend_Engineering-37474F?style=flat-square&logo=node.js&logoColor=white"/> |
+| 💹 | **Trading** | <img src="https://img.shields.io/badge/Quantitative_Systems-27AE60?style=flat-square&logo=quantconnect&logoColor=white"/> <img src="https://img.shields.io/badge/MT5_MQL5-003F87?style=flat-square&logo=metrodeturin&logoColor=white"/> <img src="https://img.shields.io/badge/Market_Data_Pipelines-E74C3C?style=flat-square&logo=apacheairflow&logoColor=white"/> |
 
 ---
 
