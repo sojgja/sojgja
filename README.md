@@ -87,7 +87,7 @@ Beyond architecture, I bring deep domain expertise in **Supply Chain Management*
 | Period | Degree | University |
 |--------|--------|------------|
 | 2012–2014 | **Master of Business Administration (MBA)** | Thuong Mai University |
-| 2004–2008 | **Bachelor of Software Engineering** | Industrial University of Ho Chi Minh City |
+| 2004–2008 | **Bachelor of Software Engineering** | Industrial University of Ha Noi |
 
 ---
 
