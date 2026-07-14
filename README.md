@@ -3,6 +3,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=600&lines=Solution+Architect;System+Design;Cloud+%26+Backend+Architecture" alt="Typing SVG" />
 </h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/cuong-nd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sojgja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/soj.gja"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://t.me/+84906961286"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://sojgja.github.io"><img src="https://img.shields.io/badge/Website-0D47A1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://github.com/sojgja"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 ---
 
 ### 👋 About Me
