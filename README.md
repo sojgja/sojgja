@@ -48,10 +48,10 @@ I design scalable, resilient systems and define technical roadmaps — from back
 
 |  | Period | Role | Company |
 |:-:|--------|------|---------|
-| 🏢 | Past | **Software Engineer** | FPT Software |
-| 🏗️ | Past | **Solution Architect** | NTQ Solution |
 | 💹 | Current | **Solution Architect — Supply Chain** | Samsung SDS |
 | 🚀 | Current | **Solution Architect — Algorithmic Trading** | — |
+| 🏢 | Past | **Software Engineer** | FPT Software |
+| 🏗️ | Past | **Solution Architect** | NTQ Solution |
 | 🚀 | Always | **Founder & Entrepreneur** | — |
 
 <br/>
