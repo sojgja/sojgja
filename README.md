@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=200&section=header&text=Sojgja&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Solution%20Architect%20•%20System%20Design%20•%20Cloud%20%26%20Backend%20Architecture&descAlignY=55&descSize=16" width="100%" />
-</div>
+<h1 align="center">Sojgja</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=600&lines=Solution+Architect;System+Design;Cloud+%26+Backend+Architecture" alt="Typing SVG" />
+</h3>
 
 ---
 
@@ -12,10 +13,11 @@ My work spans across backend engineering, system design, and quantitative tradin
 
 I hold **AWS Certified Solutions Architect Professional (SAP)** certification, reflecting my expertise in designing complex cloud systems on AWS.
 
-<div align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="18913a53-c2ef-4603-afc6-eab99d2b02b2" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
+<p align="center">
+  <a href="https://www.credly.com/badges/18913a53-c2ef-4603-afc6-eab99d2b02b2/public_url" target="_blank">
+    <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/twitter_thumb_201604_image.png" width="120" height="120" alt="AWS Certified Solutions Architect Professional"/>
+  </a>
+</p>
 
 ---
 
@@ -120,6 +122,9 @@ I focus on:
   <a href="https://t.me/+84906961286"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976d2,100:0d47a1&height=120&section=footer" width="100%" />
-</div>
+<br/>
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Sojgja-1976D2?style=for-the-badge" />
+</p>
