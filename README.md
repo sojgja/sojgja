@@ -50,7 +50,8 @@ I design scalable, resilient systems and define technical roadmaps — from back
 |:-:|--------|------|---------|
 | 🏢 | Past | **Software Engineer** | FPT Software |
 | 🏗️ | Past | **Solution Architect** | NTQ Solution |
-| 💹 | Current | **Solution Architect — Algorithmic Trading** | — |
+| 💹 | Current | **Solution Architect — Supply Chain** | Samsung SDS |
+| 🚀 | Current | **Solution Architect — Algorithmic Trading** | — |
 | 🚀 | Always | **Founder & Entrepreneur** | — |
 
 <br/>
@@ -70,7 +71,7 @@ I design scalable, resilient systems and define technical roadmaps — from back
 <tr>
 <td valign="top">
 
-With over **15 years in software engineering**, I've progressed from writing production code at **FPT Software** to architecting enterprise systems at **NTQ Solution**, and now designing cutting-edge **algorithmic trading platforms**. My focus has shifted from coding to system architecture, solution design, and technical leadership.
+With over **15 years in software engineering**, I've progressed from writing production code at **FPT Software** to architecting enterprise systems at **NTQ Solution**, and now designing cutting-edge systems at **Samsung SDS** in **Supply Chain Management** and **Algorithmic Trading**. My focus has shifted from coding to system architecture, solution design, and technical leadership.
 
 I specialize in **software architecture** — designing scalable, resilient systems that handle millions of requests. I define technical roadmaps, evaluate trade-offs between monolith vs microservices, choose the right infrastructure (AWS, Docker, CI/CD), and ensure systems are built for performance, reliability, and maintainability.
 
@@ -102,7 +103,7 @@ Beyond architecture, I bring deep domain expertise in **algorithmic trading** an
 | ☁️ | **Cloud & Infra** | <img src="https://img.shields.io/badge/AWS_SAP-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-4285F4?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Well_Architected-FF6C37?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/High_Availability-27AE60?style=flat-square&logo=checkmarx&logoColor=white"/> <img src="https://img.shields.io/badge/Scalable_Design-3498DB?style=flat-square&logo=serverless&logoColor=white"/> |
 | 💻 | **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/High_Concurrency-E74C3C?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Database_Design-336791?style=flat-square&logo=postgresql&logoColor=white"/> |
 | 👥 | **Leadership** | <img src="https://img.shields.io/badge/Team_Leadership-2C3E50?style=flat-square&logo=teamspeak&logoColor=white"/> <img src="https://img.shields.io/badge/Code_Review-8E44AD?style=flat-square&logo=reviewboard&logoColor=white"/> <img src="https://img.shields.io/badge/Mentoring-27AE60?style=flat-square&logo=openbadges&logoColor=white"/> <img src="https://img.shields.io/badge/Agile/Scrum-00A98F?style=flat-square&logo=jirasoftware&logoColor=white"/> |
-| 💹 | **Domain** | <img src="https://img.shields.io/badge/Algo_Trading-27AE60?style=flat-square&logo=quantconnect&logoColor=white"/> <img src="https://img.shields.io/badge/Quantitative_Finance-1565C0?style=flat-square&logo=bloomberg&logoColor=white"/> <img src="https://img.shields.io/badge/MT5_MQL5-003F87?style=flat-square&logo=metrodeturin&logoColor=white"/> <img src="https://img.shields.io/badge/ERP_Odoo-875F9D?style=flat-square&logo=odoo&logoColor=white"/> <img src="https://img.shields.io/badge/System_Design_(Domain)-1976D2?style=flat-square&logo=diagramsdotnet&logoColor=white"/> |
+| 💹 | **Domain** | <img src="https://img.shields.io/badge/Supply_Chain_Management-2E86C1?style=flat-square&logo=dhl&logoColor=white"/> <img src="https://img.shields.io/badge/Algo_Trading-27AE60?style=flat-square&logo=quantconnect&logoColor=white"/> <img src="https://img.shields.io/badge/Quantitative_Finance-1565C0?style=flat-square&logo=bloomberg&logoColor=white"/> <img src="https://img.shields.io/badge/MT5_MQL5-003F87?style=flat-square&logo=metrodeturin&logoColor=white"/> <img src="https://img.shields.io/badge/ERP_Odoo-875F9D?style=flat-square&logo=odoo&logoColor=white"/> |
 
 ---
 
