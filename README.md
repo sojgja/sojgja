@@ -108,29 +108,27 @@ I hold **AWS Certified Solutions Architect Professional (SAP)** certification, r
 
 ### 📊 GitHub Analytics
 
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sojgja&show_icons=true&theme=transparent&title_color=1976d2&text_color=ffffff&icon_color=1976d2&border_color=30363d&hide_border=true"/>
+</td>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojgja&layout=compact&theme=transparent&title_color=1976d2&text_color=ffffff&border_color=30363d&hide_border=true&langs_count=6"/>
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <a href="https://github.com/sojgja">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sojgja&show_icons=true&theme=react&bg_color=0d1117&border_color=30363d&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojgja&layout=compact&langs_count=8&theme=react&bg_color=0d1117&border_color=30363d"/>
-  </a>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sojgja&theme=react&background=0d1117&border=30363d&ring=1976d2&fire=1976d2&currStreakLabel=1976d2"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sojgja&theme=transparent&border=30363d&ring=1976d2&fire=1976d2&currStreakLabel=1976d2&sideNums=ffffff&sideLabels=ffffff&dates=888888"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sojgja&theme=react-dark&bg_color=0d1117&color=1976d2&line=1976d2&point=ffffff&area=true&hide_border=true&hide_title=true"/>
 </p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=sojgja&icon=5&color=1"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sojgja&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=15"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sojgja&theme=react-dark&bg_color=0d1117&color=1976d2&line=1976d2&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 <br/>
