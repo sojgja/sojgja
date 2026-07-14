@@ -111,10 +111,10 @@ I hold **AWS Certified Solutions Architect Professional (SAP)** certification, r
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=sojgja&show_icons=true&theme=transparent&title_color=1976d2&text_color=ffffff&icon_color=1976d2&border_color=30363d&hide_border=true"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sojgja&show_icons=true&bg_color=0d1117&title_color=1976d2&text_color=ffffff&icon_color=1976d2&hide_border=true"/>
 </td>
 <td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojgja&layout=compact&theme=transparent&title_color=1976d2&text_color=ffffff&border_color=30363d&hide_border=true&langs_count=6"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sojgja&layout=compact&bg_color=0d1117&title_color=1976d2&text_color=ffffff&hide_border=true&langs_count=6"/>
 </td>
 </tr>
 </table>
@@ -128,7 +128,7 @@ I hold **AWS Certified Solutions Architect Professional (SAP)** certification, r
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sojgja&icon=5&color=1"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sojgja.README&title=visitors&title_color=ffffff&color=1976D2"/>
 </p>
 
 <br/>
