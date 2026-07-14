@@ -1,4 +1,4 @@
-<h1 align="center">Sojgja</h1>
+<h1 align="center">sojgja</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=600&lines=Solution+Architect;System+Design;Cloud+%26+Backend+Architecture" alt="Typing SVG" />
 </h3>
