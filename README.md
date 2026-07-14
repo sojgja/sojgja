@@ -16,17 +16,17 @@
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About Me
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-I am a **Solution Architect** focused on designing scalable, distributed, and cloud-native systems.
+With over **15 years in software engineering**, I've progressed from writing production code at **FPT Software** to architecting enterprise systems at **NTQ Solution**, and now designing cutting-edge **algorithmic trading platforms**. My focus has shifted from coding to system architecture, solution design, and technical leadership.
 
-My work spans across backend engineering, system design, and quantitative trading infrastructure, with strong emphasis on production-grade architecture and scalability.
+I specialize in **software architecture** — designing scalable, resilient systems that handle millions of requests. I define technical roadmaps, evaluate trade-offs between monolith vs microservices, choose the right infrastructure (AWS, Docker, CI/CD), and ensure systems are built for performance, reliability, and maintainability.
 
-I hold **AWS Certified Solutions Architect Professional (SAP)** certification, reflecting my expertise in designing complex cloud systems on AWS.
+Beyond architecture, I bring deep domain expertise in **algorithmic trading** and **quantitative finance**. Combined with entrepreneurial experience from founding my own company, I solve problems at the intersection of business, technology, and strategy.
 
 <br/>
 
@@ -43,6 +43,26 @@ I hold **AWS Certified Solutions Architect Professional (SAP)** certification, r
 </td>
 </tr>
 </table>
+
+<br/>
+
+### 📈 Career Journey
+
+|  | Period | Role | Company |
+|:-:|--------|------|---------|
+| 🏢 | Past | **Software Engineer** | FPT Software |
+| 🏗️ | Past | **Solution Architect** | NTQ Solution |
+| 💹 | Current | **Solution Architect — Algorithmic Trading** | — |
+| 🚀 | Always | **Founder & Entrepreneur** | — |
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding→Architecture-1976D2?style=for-the-badge&logo=codefactor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Monolith→Microservices-E67E22?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Engineer→Leader-27AE60?style=for-the-badge&logo=growth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dev→Architect-8E44AD?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+</p>
 
 ---
 
@@ -62,10 +82,11 @@ I hold **AWS Certified Solutions Architect Professional (SAP)** certification, r
 
 |  | Area | Skills |
 |:-:|------|--------|
-| 🏛️ | **Architecture** | <img src="https://img.shields.io/badge/Solution_Architecture-1976D2?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/System_Design-1565C0?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Distributed_Systems-6C2D82?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-00B4D8?style=flat-square&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Event_Driven-8E44AD?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Clean_Architecture-2ECC71?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/DDD-27AE60?style=flat-square&logo=diagramsdotnet&logoColor=white"/> |
-| ☁️ | **Cloud** | <img src="https://img.shields.io/badge/AWS_SAP-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Well_Architected-FF6C37?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/High_Availability-27AE60?style=flat-square&logo=checkmarx&logoColor=white"/> <img src="https://img.shields.io/badge/Scalable_Design-3498DB?style=flat-square&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Cost_Optimization-E74C3C?style=flat-square&logo=amazonaws&logoColor=white"/> |
-| 💻 | **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Backend_Engineering-37474F?style=flat-square&logo=node.js&logoColor=white"/> |
-| 💹 | **Trading** | <img src="https://img.shields.io/badge/Quantitative_Systems-27AE60?style=flat-square&logo=quantconnect&logoColor=white"/> <img src="https://img.shields.io/badge/MT5_MQL5-003F87?style=flat-square&logo=metrodeturin&logoColor=white"/> <img src="https://img.shields.io/badge/Market_Data_Pipelines-E74C3C?style=flat-square&logo=apacheairflow&logoColor=white"/> |
+| 🏛️ | **Architecture** | <img src="https://img.shields.io/badge/Solution_Architecture-1976D2?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Software_Architecture-1565C0?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/System_Design-0D47A1?style=flat-square&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Distributed_Systems-6C2D82?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-00B4D8?style=flat-square&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Event_Driven-8E44AD?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Clean_Architecture-2ECC71?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/DDD-27AE60?style=flat-square&logo=diagramsdotnet&logoColor=white"/> |
+| ☁️ | **Cloud & Infra** | <img src="https://img.shields.io/badge/AWS_SAP-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-4285F4?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Well_Architected-FF6C37?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/High_Availability-27AE60?style=flat-square&logo=checkmarx&logoColor=white"/> <img src="https://img.shields.io/badge/Scalable_Design-3498DB?style=flat-square&logo=serverless&logoColor=white"/> |
+| 💻 | **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/High_Concurrency-E74C3C?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Database_Design-336791?style=flat-square&logo=postgresql&logoColor=white"/> |
+| 👥 | **Leadership** | <img src="https://img.shields.io/badge/Team_Leadership-2C3E50?style=flat-square&logo=teamspeak&logoColor=white"/> <img src="https://img.shields.io/badge/Code_Review-8E44AD?style=flat-square&logo=reviewboard&logoColor=white"/> <img src="https://img.shields.io/badge/Mentoring-27AE60?style=flat-square&logo=openbadges&logoColor=white"/> <img src="https://img.shields.io/badge/Agile/Scrum-00A98F?style=flat-square&logo=jirasoftware&logoColor=white"/> |
+| 💹 | **Domain** | <img src="https://img.shields.io/badge/Algo_Trading-27AE60?style=flat-square&logo=quantconnect&logoColor=white"/> <img src="https://img.shields.io/badge/Quantitative_Finance-1565C0?style=flat-square&logo=bloomberg&logoColor=white"/> <img src="https://img.shields.io/badge/MT5_MQL5-003F87?style=flat-square&logo=metrodeturin&logoColor=white"/> <img src="https://img.shields.io/badge/ERP_Odoo-875F9D?style=flat-square&logo=odoo&logoColor=white"/> <img src="https://img.shields.io/badge/System_Design_(Domain)-1976D2?style=flat-square&logo=diagramsdotnet&logoColor=white"/> |
 
 ---
 
